@@ -1,12 +1,13 @@
-# team7
+## team7 프로젝트 문서 바로가기
+[소개 (Intro)](./intro.md)
+[방출속도 (Dissolution)](./dissolution.md)
+[작용기전(Mechanism)](./mechanism.md)
+[대사(Metabolism)](./metabolism.md)
+[복용량(Dosage)](./dosage)
+[주의사항(Warnings)](./warnings)
 
 
-
-
-
-
-
-## team07 협업 규칙 
+## team7 협업 규칙 
 
 ###1. 1인 1파일 & 담당 파일 
 - 충돌을 방지하기 위해각 팀원은 본인이 담당한 '.md' 파일만을 수정합니다
