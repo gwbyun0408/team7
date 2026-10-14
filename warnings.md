@@ -31,4 +31,4 @@
 ## 5. 정리
 
 ## 6. 참고문헌
-[1] 약학정보원, 「약인성 간손상」, 팜리뷰, 2024년 3월 12일. [자료 링크](https://health.kr/researchInfo/pharmreview.asp)
+[1] 약학정보원. 「아세트아미노펜 바로알기」. [자료 바로가기](https://www.health.kr/Menu.PharmReview/_uploadfiles/%EC%95%84%EC%84%B8%ED%83%80%EB%AF%B8%EB%85%B8%ED%8E%9C%EB%B0%94%EB%A1%9C%EC%95%8C%EA%B8%B0_%EA%B0%90%EC%88%98%EC%99%84%EB%A3%8C_%EC%B5%9C%EB%B3%91%EC%B2%A0.pdf)
