@@ -3,14 +3,14 @@
 2.[방출속도 (Dissolution)](./dissolution.md)
 3.[작용기전(Mechanism)](./mechanism.md)
 4.[대사(Metabolism)](./metabolism.md)
-5.[복용량(Dosage)](./dosage)
+5.[복용량(Dosage)](./dosage.md)
 6.[주의사항(Warnings)](./warnings)
 
 
 ## team7 협업 규칙 
 
 ###1. 1인 1파일 & 담당 파일 
-- 충돌을 방지하기 위해각 팀원은 본인이 담당한 '.md' 파일만을 수정합니다
+- 충돌을 방지하기 위해 각 팀원은 본인이 담당한 '.md' 파일만을 수정합니다
 
 ###2. 메인 브랜치 Direct Commit 금지
 -팀원이 합의한 규칙설정 외 'main' 브랜치에 직접 글을 작성하거나 수정하지 않습니다.
