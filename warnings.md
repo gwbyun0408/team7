@@ -120,6 +120,6 @@ NAPQI는 반응성이 높기 때문에 체내에 과도하게 축적되면 간�
 ## 5. 정리
 
 ## 6. 참고문헌
-[1] 약학정보원, 「약인성 간손상」, 팜리뷰, 2024년 3월 12일. [자료 링크](https://health.kr/researchInfo/pharmreview.asp)
+[1] 정성필, 문정미, 전병조. 「아세트아미노펜 중독의 치료에 대한 최신지견」. *대한임상독성학회지*, 2022, 20(2). [논문 원문(PDF)](https://www.jksct.or.kr/upload/pdf/OSJDBR_2022_v20n2_39.pdf)
 
 [2] Ramachandran, A., and Jaeschke, H. “Mechanisms of acetaminophen hepatotoxicity and their translation to the human pathophysiology.” *Journal of Clinical and Translational Research*, 2017. [논문 원문](https://pmc.ncbi.nlm.nih.gov/articles/PMC5489132/)
