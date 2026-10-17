@@ -104,4 +104,7 @@ COX 효소에는 크게 두 종류가 있습니다.
 
 ## 참고문헌
 
-*(작성 예정)*
+1. Graham GG, Scott KF. Mechanism of action of paracetamol. *Am J Ther.* 2005;12(1):46-55.
+2. Högestätt ED, Jönsson BA, Ermund A, Andersson DA, Björk H, Alexander JP, Cravatt BF, Basbaum AI, Zygmunt PM. Conversion of acetaminophen to the bioactive N-acylphenolamine AM404 via fatty acid amide hydrolase-dependent arachidonic acid conjugation in the nervous system. *J Biol Chem.* 2005;280(36):31405-31412.
+3. Anderson BJ. Paracetamol (Acetaminophen): mechanisms of action. *Paediatr Anaesth.* 2008;18(10):915-921.
+4. Ohashi N, Kohno T. Analgesic effect of acetaminophen: a review of known and novel mechanisms of action. *Front Pharmacol.* 2020;11:580289. doi:10.3389/fphar.2020.580289
