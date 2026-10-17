@@ -11,7 +11,7 @@
 효과가 잘 알려진 안전한 약이지만, **정해진 양을 넘기면 간에 심각한 손상**을 줄 수 있습니다. 
 또한 용량이 나이와 체중에 따라 달라지기 때문에 특히 소아는 정확한 계산이 중요합니다. 이것이 이 가이드를 만든 이유입니다.
 
-<img width="1280" height="720" alt="acetaminophen" src="https://github.com/user-attachments/assets/ffd9edf2-1442-4ed4-8c91-03a351c81d5b" />
+![아세트아미노펜 분자 구조](acetaminophen.png)
 
 
 ## 2. 계산 순서 한눈에 보기
