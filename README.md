@@ -1,10 +1,10 @@
 ## team7 프로젝트 문서 바로가기
-1.[소개 (Intro)](./intro.md1)
+1.[소개 (Intro)](./intro.md)
 2.[방출속도 (Dissolution)](./dissolution.md)
 3.[작용기전(Mechanism)](./mechanism.md)
 4.[대사(Metabolism)](./metabolism.md)
 5.[복용량(Dosage)](./dosage.md)
-6.[주의사항(Warnings)](./warnings)
+6.[주의사항(Warnings)](./warnings.md)
 
 
 ## team7 협업 규칙 

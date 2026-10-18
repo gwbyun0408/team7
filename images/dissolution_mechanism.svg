@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif">
+  <rect width="960" height="620" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">아세트아미노펜 속효정(IR) vs 서방정(ER) 방출 구조</text>
+
+  <!-- Panel 1: IR -->
+  <g transform="translate(20,60)">
+    <rect width="220" height="300" rx="12" fill="#fef3c7" stroke="#d97706"/>
+    <text x="110" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#92400e">① 속효정 (IR)</text>
+    <ellipse cx="60" cy="90" rx="38" ry="22" fill="#fbbf24" stroke="#92400e"/>
+    <text x="60" y="94" text-anchor="middle" font-size="11">정제</text>
+    <path d="M102 90 L128 90" stroke="#92400e" stroke-width="2" marker-end="url(#a)"/>
+    <circle cx="148" cy="80" r="7" fill="#fbbf24" stroke="#92400e"/>
+    <circle cx="166" cy="96" r="6" fill="#fbbf24" stroke="#92400e"/>
+    <circle cx="150" cy="104" r="5" fill="#fbbf24" stroke="#92400e"/>
+    <circle cx="180" cy="78" r="5" fill="#fbbf24" stroke="#92400e"/>
+    <text x="110" y="140" text-anchor="middle" font-size="12">붕해 → 과립 → 입자</text>
+    <g fill="#f59e0b" opacity="0.7">
+      <circle cx="50" cy="180" r="3"/><circle cx="80" cy="170" r="3"/><circle cx="110" cy="190" r="3"/>
+      <circle cx="140" cy="175" r="3"/><circle cx="170" cy="185" r="3"/><circle cx="65" cy="200" r="3"/>
+      <circle cx="125" cy="205" r="3"/><circle cx="160" cy="200" r="3"/>
+    </g>
+    <text x="110" y="235" text-anchor="middle" font-size="12">표면적 급증 → 빠른 용해</text>
+    <text x="110" y="262" text-anchor="middle" font-size="11" fill="#78350f">붕해제: 크로스카멜로스나트륨,</text>
+    <text x="110" y="280" text-anchor="middle" font-size="11" fill="#78350f">전분글리콜산나트륨</text>
+  </g>
+
+  <!-- Panel 2: Matrix -->
+  <g transform="translate(255,60)">
+    <rect width="220" height="300" rx="12" fill="#dbeafe" stroke="#2563eb"/>
+    <text x="110" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">② 매트릭스형 (타이레놀 ER)</text>
+    <circle cx="110" cy="130" r="72" fill="#bfdbfe" stroke="#1e40af" stroke-dasharray="5 4"/>
+    <circle cx="110" cy="130" r="50" fill="#93c5fd"/>
+    <circle cx="110" cy="130" r="28" fill="#2563eb"/>
+    <text x="110" y="134" text-anchor="middle" font-size="11" fill="#fff">건조 코어</text>
+    <text x="110" y="92" text-anchor="middle" font-size="10">팽윤 겔층</text>
+    <text x="110" y="70" text-anchor="middle" font-size="10">침식면</text>
+    <path d="M182 130 L212 130" stroke="#1e40af" stroke-width="2" marker-end="url(#a)"/>
+    <path d="M38 130 L8 130" stroke="#1e40af" stroke-width="2" marker-end="url(#a)"/>
+    <text x="110" y="232" text-anchor="middle" font-size="12">물 침투 → HPMC 겔화</text>
+    <text x="110" y="252" text-anchor="middle" font-size="12">겔층 확산 + 표면 침식</text>
+    <text x="110" y="280" text-anchor="middle" font-size="11" fill="#1e3a8a">Higuchi: Q = k·√t</text>
+  </g>
+
+  <!-- Panel 3: Reservoir -->
+  <g transform="translate(490,60)">
+    <rect width="220" height="300" rx="12" fill="#dcfce7" stroke="#16a34a"/>
+    <text x="110" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#14532d">③ 막 코팅(저장소)형</text>
+    <rect x="45" y="70" width="130" height="110" rx="55" fill="#86efac" stroke="#14532d" stroke-width="6"/>
+    <text x="110" y="122" text-anchor="middle" font-size="11">약물 코어</text>
+    <text x="110" y="138" text-anchor="middle" font-size="11">(포화 농도)</text>
+    <text x="110" y="62" text-anchor="middle" font-size="10">불용성 고분자 막</text>
+    <path d="M180 125 L210 125" stroke="#14532d" stroke-width="2" marker-end="url(#a)"/>
+    <path d="M110 186 L110 210" stroke="#14532d" stroke-width="2" marker-end="url(#a)"/>
+    <text x="110" y="232" text-anchor="middle" font-size="12">막을 통한 Fick 확산</text>
+    <text x="110" y="252" text-anchor="middle" font-size="12">농도구배 일정 → 거의 0차</text>
+    <text x="110" y="280" text-anchor="middle" font-size="11" fill="#14532d">에틸셀룰로오스, Eudragit RS/RL</text>
+  </g>
+
+  <!-- Panel 4: Osmotic -->
+  <g transform="translate(725,60)">
+    <rect width="215" height="300" rx="12" fill="#f3e8ff" stroke="#9333ea"/>
+    <text x="107" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#581c87">④ 삼투압 펌프 (OROS)</text>
+    <rect x="40" y="62" width="135" height="130" rx="18" fill="#ffffff" stroke="#581c87" stroke-width="5"/>
+    <rect x="45" y="67" width="125" height="60" fill="#d8b4fe"/>
+    <text x="107" y="102" text-anchor="middle" font-size="11">약물층</text>
+    <rect x="45" y="127" width="125" height="60" fill="#a855f7"/>
+    <text x="107" y="162" text-anchor="middle" font-size="11" fill="#fff">팽창(push)층</text>
+    <rect x="102" y="56" width="10" height="10" fill="#ffffff"/>
+    <path d="M107 56 L107 42" stroke="#581c87" stroke-width="2" marker-end="url(#a)"/>
+    <text x="150" y="50" font-size="10">레이저 구멍</text>
+    <text x="107" y="226" text-anchor="middle" font-size="12">반투과막으로 물만 유입</text>
+    <text x="107" y="246" text-anchor="middle" font-size="12">팽창층이 약물을 밀어냄</text>
+    <text x="107" y="280" text-anchor="middle" font-size="11" fill="#581c87">pH·위장운동 영향 적음, 0차</text>
+  </g>
+
+  <!-- Release curve -->
+  <g transform="translate(110,390)">
+    <text x="370" y="0" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2937">누적 방출률(%) – 시간 (개념도)</text>
+    <line x1="0" y1="200" x2="740" y2="200" stroke="#374151" stroke-width="2"/>
+    <line x1="0" y1="20" x2="0" y2="200" stroke="#374151" stroke-width="2"/>
+    <text x="-8" y="30" text-anchor="end" font-size="11">100</text>
+    <text x="-8" y="204" text-anchor="end" font-size="11">0</text>
+    <text x="740" y="220" text-anchor="end" font-size="11">시간 (h) →</text>
+    <path d="M0 200 C 30 40, 60 30, 740 28" fill="none" stroke="#d97706" stroke-width="3"/>
+    <path d="M0 200 C 80 120, 300 60, 740 40" fill="none" stroke="#2563eb" stroke-width="3"/>
+    <path d="M0 200 L 600 40 L 740 36" fill="none" stroke="#9333ea" stroke-width="3" stroke-dasharray="7 4"/>
+    <rect x="520" y="110" width="210" height="72" fill="#ffffff" stroke="#d1d5db"/>
+    <line x1="530" y1="126" x2="560" y2="126" stroke="#d97706" stroke-width="3"/><text x="566" y="130" font-size="11">IR: 30분 내 대부분 용출</text>
+    <line x1="530" y1="146" x2="560" y2="146" stroke="#2563eb" stroke-width="3"/><text x="566" y="150" font-size="11">매트릭스: √t 의존</text>
+    <line x1="530" y1="166" x2="560" y2="166" stroke="#9333ea" stroke-width="3" stroke-dasharray="7 4"/><text x="566" y="170" font-size="11">삼투압: 일정 속도(0차)</text>
+  </g>
+
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#374151"/>
+    </marker>
+  </defs>
+</svg>
