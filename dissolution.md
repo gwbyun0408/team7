@@ -246,3 +246,68 @@ flowchart TD
 | 주의점 | 짧은 간격 복용 | 분쇄·저작 금지, 8시간 간격, 중복 복용 금지 |
 
 **결론**: 아세트아미노펜처럼 원래 잘 녹는 약도, **붕해제·겔 매트릭스·고분자 막·이층 구조** 같은 물리적 설계로 방출 속도를 완전히 바꿀 수 있다. 제형학은 "무엇을 주느냐"만큼 "**어떻게 내보내느냐**"가 약효와 안전성을 좌우한다는 것을 보여준다.
+
+## 참고문헌
+
+> 각 항목의 링크를 누르면 원문(또는 DOI 페이지)으로 바로 이동합니다.
+
+**[1]** Kalantzi L, Reppas C, Dressman JB, et al. Biowaiver monographs for immediate release solid oral dosage forms: Acetaminophen (paracetamol). *J Pharm Sci.* 2006;95(1):4–14. [doi:10.1002/jps.20477](https://doi.org/10.1002/jps.20477)  
+↳ 인용 위치: BCS 분류 결론부(Class III, borderline Class I) · 본문 1장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Biowaiver%20monographs%20for%20immediate%20release%20solid%20oral%20dosage%20forms%3A%20Acetaminophen%20%28paracetamol%29)
+
+**[2]** European Medicines Agency. Paracetamol oral use immediate release formulations product-specific bioequivalence guidance, Rev. 1. [원문 링크](https://www.ema.europa.eu/en/documents/scientific-guideline/paracetamol-oral-use-immediate-release-formulations-product-specific-bioequivalence-guidance-revision-1_en.pdf)  
+↳ 인용 위치: 'BCS Classification' 항목 Background(고용해도·흡수율 >85%), 각주(15분/30분 85% 용출) · 본문 1·4·9장
+
+**[3]** Noyes AA, Whitney WR. The rate of solution of solid substances in their own solutions. *J Am Chem Soc.* 1897;19(12):930–934. [doi:10.1021/ja02086a003](https://doi.org/10.1021/ja02086a003)  
+↳ 인용 위치: 용해 속도식 원형 · 본문 3장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=The%20rate%20of%20solution%20of%20solid%20substances%20in%20their%20own%20solutions)
+
+**[4]** Desai PM, Liew CV, Heng PWS. Review of disintegrants and the disintegration phenomena. *J Pharm Sci.* 2016;105(9):2545–2555. [doi:10.1016/j.xphs.2015.12.019](https://doi.org/10.1016/j.xphs.2015.12.019)  
+↳ 인용 위치: 붕해 기전(swelling, wicking, deformation recovery) 분류 섹션 · 본문 4장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Review%20of%20disintegrants%20and%20the%20disintegration%20phenomena)
+
+**[5]** Siepmann J, Peppas NA. Modeling of drug release from delivery systems based on hydroxypropyl methylcellulose (HPMC). *Adv Drug Deliv Rev.* 2001;48(2–3):139–157. [doi:10.1016/S0169-409X(01)00112-0](https://doi.org/10.1016/S0169-409X(01)00112-0)  
+↳ 인용 위치: HPMC 매트릭스 팽윤·겔층·확산·침식 기전 설명부 · 본문 5-1장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Modeling%20of%20drug%20release%20from%20delivery%20systems%20based%20on%20hydroxypropyl%20methylcellulose%20%28HPMC%29)
+
+**[6]** Beaudoin JJ, Yang K, Howell BA, et al. Modeling and simulation of acetaminophen pharmacokinetics and hepatic biomarkers after overdoses of extended-release and immediate-release formulations in healthy adults using the QST software platform DILIsym. *CPT Pharmacometrics Syst Pharmacol.* 2025;14(4):681–694. [doi:10.1002/psp4.13304](https://doi.org/10.1002/psp4.13304)  
+↳ 인용 위치: Abstract(속방층 + 침식형 서방층, 과다복용 시 유사한 간 지표 예측) · 본문 5-1·8장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Modeling%20and%20simulation%20of%20acetaminophen%20pharmacokinetics%20and%20hepatic%20biomarkers%20after%20overdoses%20of%20extended-release%20and%20immediate-release%20formulations%20in%20healthy%20adults%20using%20the%20QST%20software%20platform%20DILIsym)
+
+**[7]** 특허 US 2011/0177168 A1, *Composition*. [원문 링크](https://patents.google.com/patent/US20110177168A1)  
+↳ 인용 위치: Background(선행기술: 650/667mg 이층정, 속방·서방 동량, HEC+PVP 매트릭스, McNeil Tylenol Extended Relief) · 본문 5-1장
+
+**[8]** Theeuwes F. Elementary osmotic pump. *J Pharm Sci.* 1975;64(12):1987–1991. [doi:10.1002/jps.2600641218](https://doi.org/10.1002/jps.2600641218)  
+↳ 인용 위치: 삼투압 펌프 구조 및 0차 방출 이론 · 본문 5-3·7장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Elementary%20osmotic%20pump)
+
+**[9]** Shep D, Ojha A, Patel S, et al. Bioequivalence and pharmacokinetic evaluation of two formulations of paracetamol ER 650 mg. *Int J Curr Pharm Res.* 2010;2(4). [원문 링크](https://www.troikaa.com/wp-content/uploads/2020/06/224.pdf)  
+↳ 인용 위치: Introduction(이층정: 속방 325mg + 서방 325mg, 대조약 McNeil Tylenol ER) · 본문 6장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Bioequivalence%20and%20pharmacokinetic%20evaluation%20of%20two%20formulations%20of%20paracetamol%20ER%20650%20mg)
+
+**[10]** 식품의약품안전처 의약품안전나라 — 「타이레놀8시간이알서방정」·「펜잘8시간이알서방정」 제품 상세정보. [원문 링크](https://nedrug.mfds.go.kr)  
+↳ 인용 위치: 원료약품 및 분량(속방층/서방층 각 325mg), 용법·용량 — 사이트에서 제품명 검색 · 본문 6장  
+↳ 확인일: ____-__-__
+
+**[11]** Costa P, Sousa Lobo JM. Modeling and comparison of dissolution profiles. *Eur J Pharm Sci.* 2001;13(2):123–133. [doi:10.1016/S0928-0987(01)00095-1](https://doi.org/10.1016/S0928-0987(01)00095-1)  
+↳ 인용 위치: 0차·1차·Higuchi·Korsmeyer–Peppas 모델 정리 섹션 · 본문 7장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Modeling%20and%20comparison%20of%20dissolution%20profiles)
+
+**[12]** Higuchi T. Mechanism of sustained-action medication. Theoretical analysis of rate of release of solid drugs dispersed in solid matrices. *J Pharm Sci.* 1963;52(12):1145–1149. [doi:10.1002/jps.2600521210](https://doi.org/10.1002/jps.2600521210)  
+↳ 인용 위치: 매트릭스 방출식 유도부 (Q = √[D(2A − Cs)Cs·t]) · 본문 7장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Mechanism%20of%20sustained-action%20medication.%20Theoretical%20analysis%20of%20rate%20of%20release%20of%20solid%20drugs%20dispersed%20in%20solid%20matrices)
+
+**[13]** Korsmeyer RW, Gurny R, Doelker E, Buri P, Peppas NA. Mechanisms of solute release from porous hydrophilic polymers. *Int J Pharm.* 1983;15(1):25–35. [doi:10.1016/0378-5173(83)90064-9](https://doi.org/10.1016/0378-5173(83)90064-9)  
+↳ 인용 위치: 멱법칙 Mt/M∞ = k·tⁿ 제시부 · 본문 7장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Mechanisms%20of%20solute%20release%20from%20porous%20hydrophilic%20polymers)
+
+**[14]** Ritger PL, Peppas NA. A simple equation for description of solute release I. Fickian and non-Fickian release from non-swellable devices in the form of slabs, spheres, cylinders or discs. *J Control Release.* 1987;5(1):23–36. [doi:10.1016/0168-3659(87)90034-4](https://doi.org/10.1016/0168-3659(87)90034-4)  
+↳ 인용 위치: 기하 형태별 n값 표(slab 0.5 / cylinder 0.45 / sphere 0.43) · 본문 7장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=A%20simple%20equation%20for%20description%20of%20solute%20release%20I.%20Fickian%20and%20non-Fickian%20release%20from%20non-swellable%20devices%20in%20the%20form%20of%20slabs%2C%20spheres%2C%20cylinders%20or%20discs)
+
+**[15]** Salmonson H, Sjöberg G, Brogren J. The standard treatment protocol for paracetamol poisoning may be inadequate following overdose with modified release formulation: a pharmacokinetic and clinical analysis of 53 cases. *Clin Toxicol (Phila).* 2018;56(1):63–68. [doi:10.1080/15563650.2017.1339887](https://doi.org/10.1080/15563650.2017.1339887)  
+↳ 인용 위치: Results·Conclusion(흡수 지연·연장, 표준 프로토콜 불충분) · 본문 8장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=The%20standard%20treatment%20protocol%20for%20paracetamol%20poisoning%20may%20be%20inadequate%20following%20overdose%20with%20modified%20release%20formulation%3A%20a%20pharmacokinetic%20and%20clinical%20analysis%20of%2053%20cases)
+
+**[16]** European Medicines Agency. Modified-release paracetamol-containing products to be suspended from EU market. 2017. [원문 링크](https://www.ema.europa.eu/en/news/modified-release-paracetamol-containing-products-be-suspended-eu-market)  
+↳ 인용 위치: 권고 근거 문단(스웨덴 53례 분석) · 본문 8장
+
+**[17]** 김정주. 타이레놀 서방정, 포장단위 축소…제품명에 '8시간'. 데일리팜. 2018-04-10. [원문 링크](https://m.dailypharm.com/user/news/88086)  
+↳ 인용 위치: 기사 본문(식약처 허가사항 변경안: 제품명 '8시간', 650mg 6정 이내 포장) · 본문 8장
+
+**[18]** United States Pharmacopeia. General Chapter 〈711〉 Dissolution. / 대한민국약전(KP) 일반시험법 「용출시험법」(조항: ______).  
+↳ 인용 위치: 장치(Apparatus 1·2) 및 온도 조건(37 ± 0.5 °C) · 본문 9장
+
+**[19]** Moore JW, Flanner HH. Mathematical comparison of dissolution profiles. *Pharm Technol.* 1996;20(6):64–74.  
+↳ 인용 위치: f₁·f₂ 정의식 · 본문 9장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=Mathematical%20comparison%20of%20dissolution%20profiles)
+
+**[20]** Shah VP, Tsong Y, Sathe P, Liu JP. In vitro dissolution profile comparison—statistics and analysis of the similarity factor, f₂. *Pharm Res.* 1998;15(6):889–896. [doi:10.1023/A:1011976615750](https://doi.org/10.1023/A:1011976615750)  
+↳ 인용 위치: f₂ 50~100 유사성 기준 및 통계 분석 · 본문 9장 · [Google Scholar 검색](https://scholar.google.com/scholar?q=In%20vitro%20dissolution%20profile%20comparison%E2%80%94statistics%20and%20analysis%20of%20the%20similarity%20factor%2C%20f%E2%82%82)
