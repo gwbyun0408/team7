@@ -73,8 +73,9 @@ flowchart LR
     C --> D[용해<br/>Dissolution]
     D --> E[소장 점막 흡수]
     E --> F[혈중 농도 상승]
-![아세트아미노펜 속효정과 서방정의 방출 구조 비교](images/dissolution_mechanism.svg)
 ```
+![아세트아미노펜 속효정과 서방정의 방출 구조 비교](images/dissolution_mechanism.svg)
+
 # 3. 용해 속도의 법칙: Noyes-Whitney 식
 1897년 Noyes와 Whitney는 고체가 녹는 속도가 포화 농도와 현재 농도의 차이에 비례한다는 것을 실험으로 보였다 [3]. 이후 확산층 개념이 더해져 현재는 아래 형태로 쓰인다. 식의 각 항이 제형 설계의 조절 손잡이가 된다는 점이 이 파트의 핵심이다.
 
