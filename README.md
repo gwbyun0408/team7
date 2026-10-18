@@ -4,7 +4,7 @@
 3.[작용기전(Mechanism)](./mechanism.md)
 4.[대사(Metabolism)](./metabolism.md)
 5.[복용량(Dosage)](./dosage.md)
-6.[주의사항(Warnings)](./warnings)
+6.[주의사항(Warnings)](./warnings.md)
 
 
 ## team7 협업 규칙 
